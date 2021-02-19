@@ -2,4 +2,4 @@ module retrieve_urls_from_dynamodb
 
 go 1.13
 
-require github.com/aws/aws-sdk-go v1.36.31
+require github.com/aws/aws-sdk-go v1.37.15
