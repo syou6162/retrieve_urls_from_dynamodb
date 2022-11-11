@@ -2,6 +2,6 @@ module retrieve_urls_from_dynamodb
 
 go 1.19
 
-require github.com/aws/aws-sdk-go v1.44.131
+require github.com/aws/aws-sdk-go v1.44.135
 
 require github.com/jmespath/go-jmespath v0.4.0 // indirect
